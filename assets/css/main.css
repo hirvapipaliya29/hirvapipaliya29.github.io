@@ -290,6 +290,65 @@ template {
     font-style: normal
 }
 
+.devicon-bootstrap-plain {
+  font-size: 3rem
+}
+
+
+.devicon-html5-plain-wordmark{
+  font-size: 3rem
+}
+
+
+.devicon-css3-plain-wordmark {
+  font-size: 3rem
+}
+
+
+.devicon-ruby-plain  {
+  font-size: 3rem
+}
+
+
+.devicon-python-plain {
+  font-size: 3rem
+}
+
+
+.devicon-javascript-plain{
+  font-size: 3rem
+}
+
+
+.devicon-cplusplus-plain {
+  font-size: 3rem
+}
+
+
+.devicon-mysql-plain-wordmark{
+  font-size: 3rem
+}
+
+.devicon-postgresql-plain {
+  font-size: 3rem
+}
+
+
+.devicon-git-plain {
+  font-size: 3rem
+}
+
+
+.devicon-visualstudio-plain {
+  font-size: 3rem
+}
+
+
+.devicon-github-plain {
+  font-size: 3rem
+}
+
+
 .fa {
     display: inline-block;
     font: 14px/1 FontAwesome;
@@ -1977,6 +2036,10 @@ template {
 
 .fa-vimeo-square:before {
     content: "\f194"
+}devicon-git-plain {devicon-git-plain {
+  font-size: 2rem
+}
+  font-size: 2rem
 }
 
 .fa-try:before,
